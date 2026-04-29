@@ -172,8 +172,7 @@ static void MX_GPIO_Init(void)
 
 **ON:**
 
-<img width="394" height="466" alt="image" src="https://github.com/user-attachments/assets/19b10a7a-deae-4256-ac0b-b040ab065dd6" />
-
+<img width="572" height="670" alt="image" src="https://github.com/user-attachments/assets/6c7de0bf-3f6f-48d3-9a59-02ef5bf0ae45" />
 
 
 --
