@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:29.04.2026**
+**DATE: 29.04.2026**
 
-**NAME:Shalini N**
+**NAME: Shalini N**
 
-**ROLL NO:212224040305**
+**ROLL NO: 212224040305**
 
-**DEPARTMENT:CSE**
+**DEPARTMENT: CSE**
 
 ## Aim
 
@@ -172,7 +172,8 @@ static void MX_GPIO_Init(void)
 
 **ON:**
 
-<img width="900" height="1600" alt="WhatsApp Image 2026-04-29 at 11 50 55 AM" src="https://github.com/user-attachments/assets/2e341566-8c1d-40a5-92e5-f01bd7f92218" />
+<img width="394" height="466" alt="image" src="https://github.com/user-attachments/assets/19b10a7a-deae-4256-ac0b-b040ab065dd6" />
+
 
 
 --
